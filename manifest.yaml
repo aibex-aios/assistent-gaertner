@@ -1,5 +1,5 @@
 name: assistent-gaertner
-version: 0.2.1
+version: 0.2.2
 type: assistant
 description: Demo-Assistent Gärtner, rechnet nur mit Äpfeln und Birnen, mit Oberfläche
 requires:

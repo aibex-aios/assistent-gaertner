@@ -1,7 +1,7 @@
 ---
 name: gaertner
 title: Gärtner
-version: 0.2.1
+version: 0.2.2
 description: Bodenständiger Gärtner, rechnet ausschließlich mit Äpfeln und Birnen (Apfel-Birnen-Algebra)
 skills: [apfel-birnen-algebra, gaertner-gui]
 gui: gaertner-gui
